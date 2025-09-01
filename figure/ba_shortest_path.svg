@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="383.0"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css"
+     viewBox="-360.000000 -365.000000 383.000000 389.000000" height="389.0"
+     preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg"
+     version="1.1">
+    <g id="edges">
+        <path fill="none" stroke-width="2.0"
+              d="M -100.264435,-164.237350 L -13.922069,-21.232302"
+              class="id_14 id_1" stroke-opacity="0.84705883" stroke="#bfbfbf"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -203.781677,-304.177063 L -119.709412,-192.953445"
+              class="id_20 id_14" stroke-opacity="0.84705883" stroke="#bfbfbf"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -343.417511,-353.643524 L -222.579041,-317.259094"
+              class="id_85 id_20" stroke-opacity="0.84705883" stroke="#bfbfbf"/>
+    </g>
+    <g id="nodes">
+        <circle fill-opacity="1.0" fill="#8b0000" r="23.954544" cx="-1.2823029"
+                class="id_1" cy="-0.2976158" stroke="#1f1f1f"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#a75a5a" r="16.863636" cx="-109.239136"
+                class="id_14" cy="-179.10176" stroke="#1f1f1f"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#bd9e9e" r="11.545455" cx="-211.04509"
+                class="id_20" cy="-313.78622" stroke="#1f1f1f"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ebf0e9" r="8.0" cx="-351.55658"
+                class="id_85" cy="-356.09418" stroke="#1f1f1f"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+    </g>
+</svg>
